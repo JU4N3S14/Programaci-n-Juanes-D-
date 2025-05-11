@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspaces/Programaci-n-Juanes-D-/trabajofinal/build",
+  "command": "/usr/bin/g++   -I/workspaces/Programaci-n-Juanes-D-/trabajofinal/include  -g   -o CMakeFiles/trabajofinal.dir/main.cpp.o -c /workspaces/Programaci-n-Juanes-D-/trabajofinal/main.cpp",
+  "file": "/workspaces/Programaci-n-Juanes-D-/trabajofinal/main.cpp"
+}
+]

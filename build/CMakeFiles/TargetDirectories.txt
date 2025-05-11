@@ -1,0 +1,3 @@
+/workspaces/Programaci-n-Juanes-D-/trabajofinal/build/CMakeFiles/rebuild_cache.dir
+/workspaces/Programaci-n-Juanes-D-/trabajofinal/build/CMakeFiles/edit_cache.dir
+/workspaces/Programaci-n-Juanes-D-/trabajofinal/build/CMakeFiles/trabajofinal.dir
